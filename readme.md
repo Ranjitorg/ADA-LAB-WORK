@@ -27,6 +27,8 @@ BinaryTruth(n):
 - Digital logic
 - Bit generation
 
+## Graph
+![Binary Truth Table - Time Taken vs n](graph/binary_truth_table_graph.png)
 
 ---
 
@@ -55,7 +57,7 @@ BouncingBall(h):
 - Recursive modeling
 
 ## Graph
-![Ball Bounce Count - Time Taken vs n](graphs/ball_bounce_graph.png)
+![Ball Bounce Count - Time Taken vs n](graph/ball_bounce_graph.png)
 
 ---
 
@@ -82,7 +84,7 @@ Horner(poly, n, x):
 - Numerical methods
 
 ## Graph
-![Horner's Rule](graphs/image.png)
+![Horner's Rule](graph/image.png)
 
 ---
 
@@ -110,7 +112,7 @@ LinearSearch(arr, n, key, i):
 - Small datasets
 
 ## Graph
-![Linear Search](graphs/image-1.png)
+![Linear Search](graph/image-1.png)
 
 ---
 
@@ -139,7 +141,9 @@ MaxMin(low, high):
 - Optimization
 - Large arrays
 
-![Min-Max](graphs/min_max_graph.png)
+## Graph
+
+![Min-Max](graph/min_max_graph.png)
 
 ---
 
@@ -169,7 +173,7 @@ Permute(str, l, r):
 - Backtracking
 
 ## Graph
-![Permutation Generation of String](graphs/image-4.png)
+![Permutation Generation of String](graph/image-4.png)
 
 ---
 
@@ -196,7 +200,7 @@ Power(x, n):
 - Exponentiation
 
 ## Graph
-![Power Recursive](graphs/image-6.png)
+![Power Recursive](graph/image-6.png)
 
 ---
 
@@ -223,7 +227,7 @@ Sum(n):
 - Basics of recursion
 
 ## Graph
-![Sum of Array](graphs/image-8.png)
+![Sum of Array](graph/image-8.png)
 
 ---
 
@@ -254,7 +258,7 @@ TOH(n, s, a, d):
 - Evaluating frontal lobe function and cognitive planning
 
 ## Graph
-![Tower of Hanoi - Time Taken vs n](graphs/toh_graph.png)
+![Tower of Hanoi - Time Taken vs n](graph/toh_graph.png)
 
 ---
 
@@ -288,7 +292,7 @@ FIND_MISSING(arr, n):
 - Tracking gaps in IDs, logs, or indexed records
 
 ## Graph
-![Missing Number](graphs/image-2.png)
+![Missing Number](graph/image-2.png)
 
 ---
 
@@ -319,7 +323,7 @@ InsertionSort(arr, n):
 - Used when data is nearly sorted, such as arranging student marks where only a few values are out of place
 
 ## Graph
-![Insertion Sort](graphs/image-10.png)
+![Insertion Sort](graph/image-10.png)
 
 ---
 
@@ -348,7 +352,7 @@ MergeSort(arr, l, r):
 - Used in external sorting where data is too large to fit into memory, such as sorting large database files
 
 ## Graph
-![Merge Sort](graphs/image-11.png)
+![Merge Sort](graph/image-11.png)
 
 ---
 
@@ -376,7 +380,7 @@ QuickSort(arr, l, r):
 - Widely used in system libraries for fast sorting of large datasets due to good average-case performance
 
 ## Graph
-![Quick Sort](graphs/image-12.png)
+![Quick Sort](graph/image-12.png)
 
 ---
 
@@ -406,7 +410,7 @@ ConvexHull(points):
 - Used in computer graphics to find the boundary of shapes or objects
 
 ## Graph
-![Convex Hull Time Complexity](graphs/image-13.png)
+![Convex Hull Time Complexity](graph/image-13.png)
 
 ---
 
@@ -437,7 +441,7 @@ BinarySearch(arr, l, r, key):
 - Used in searching elements in sorted databases, like finding a record in a sorted employee list
 
 ## Graph
-![Binary Search](graphs/image-9.png)
+![Binary Search](graph/image-9.png)
 
 ---
 
@@ -466,7 +470,7 @@ Dijkstra(graph, source):
 - Used in GPS navigation systems to find shortest routes between locations
 
 ## Graph
-![Dijkstra's Algorithm Time Complexity](graphs/image-16.png)
+![Dijkstra's Algorithm Time Complexity](graph/image-16.png)
 
 ---
 
@@ -494,7 +498,7 @@ Prims(graph):
 - Used in designing minimum-cost networks like electrical wiring or roads
 
 ## Graph
-![Prim's Algorithm Time Complexity](graphs/image-18.png)
+![Prim's Algorithm Time Complexity](graph/image-18.png)
 
 ---
 
@@ -522,7 +526,7 @@ Kruskal(edges):
 - Used in network design to connect all nodes with minimum cost
 
 ## Graph
-![Kruskal's Algorithm Time Complexity](graphs/image-17.png)
+![Kruskal's Algorithm Time Complexity](graph/image-17.png)
 
 ---
 
@@ -550,7 +554,7 @@ MinSum(graph):
 - Used in multistage decision problems like shortest path in layered graphs
 
 ## Graph
-![Minimum Cost Path in Multistage Graph](graphs/image-20.png)
+![Minimum Cost Path in Multistage Graph](graph/image-20.png)
 
 ---
 
@@ -578,7 +582,7 @@ MSGBackward(graph):
 - Used in forward dynamic programming problems such as staged optimization
 
 ## Graph
-![Min Cost Path in Multistage Graph](graphs/image-22.png)
+![Min Cost Path in Multistage Graph](graph/image-22.png)
 
 ---
 
@@ -607,7 +611,7 @@ Stages(graph):
 - Used to determine levels or stages in decision-making graphs
 
 ## Graph
-![Count Stages in multistage graph](graphs/image-29.png)
+![Count Stages in multistage graph](graph/image-29.png)
 
 ---
 
@@ -635,7 +639,7 @@ FloydWarshall(graph):
 - Used in network routing to compute shortest paths between all pairs of nodes
 
 ## Graph
-![All Pairs Shortest Paths](graphs/image-23.png)
+![All Pairs Shortest Paths](graph/image-23.png)
 
 ---
 
@@ -664,7 +668,7 @@ TSP(i, S):
 - Used in logistics and delivery systems to find the minimum cost route
 
 ## Graph
-![Traveling Salesman Problem](graphs/image-24.png)
+![Traveling Salesman Problem](graph/image-24.png)
 
 ---
 
@@ -694,7 +698,7 @@ MatrixChain(p):
 - Used in optimizing matrix multiplication order in compilers and scientific computing
 
 ## Graph
-![Matrix Chain Multiplication](graphs/image-21.png)
+![Matrix Chain Multiplication](graph/image-21.png)
 
 
 # Experiment 30 Graph Coloring
@@ -723,7 +727,7 @@ GraphColoring(graph, m):
 - Used in scheduling and register allocation problems
 
 ## Graph
-![Graph Coloring](graphs/image-25.png)
+![Graph Coloring](graph/image-25.png)
 
 
 # Experiment 31 Hamiltonian Cycle
@@ -752,7 +756,7 @@ HamiltonianCycle(graph, n):
 
 ## Graph
 
-![Hamiltonian Cycle](graphs/image-26.png)
+![Hamiltonian Cycle](graph/image-26.png)
 
 
 # Experiment 32 N-Queens Problem
@@ -784,4 +788,4 @@ NQueens(board, col, n):
 
 ## Graph
 
-![N-Queens Problem](graphs/image-27.png)
+![N-Queens Problem](graph/image-27.png)
